@@ -6,9 +6,10 @@ Code for paper iBoW3D: Place Recognition Based on Incremental and General Bag of
 
 ## Prerequisites
 We ran the code in Ubuntu 18.04 and we also used libraries listed below.
+- [Open3D](https://www.open3d.org/)
 - [OpenCV](https://github.com/opencv/opencv)
 - [Eigen 3](https://eigen.tuxfamily.org/dox/)
-- [Open3D](https://www.open3d.org/)
+
 
 ## Features
 We use [D3Feat](https://github.com/XuyangBai/D3Feat?tab=readme-ov-file) to obtain keypoints and local features in advance.
