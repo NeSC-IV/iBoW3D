@@ -11,7 +11,7 @@ We ran the code in Ubuntu 18.04 and we also used libraries listed below.
 - [Open3D](https://www.open3d.org/)
 
 ## Features
-We use [D3Feat](https://github.com/XuyangBai/D3Feat?tab=readme-ov-file) to obtain local features in advance.
+We use [D3Feat](https://github.com/XuyangBai/D3Feat?tab=readme-ov-file) to obtain keypoints and local features in advance.
 
 ## Compile and Run
 Before compile the package, some related paths should be added in the **main.cpp** file.
