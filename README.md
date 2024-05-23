@@ -15,7 +15,7 @@ We ran the code in Ubuntu 18.04 and we also used libraries listed below.
 - [Eigen 3](https://eigen.tuxfamily.org/dox/)
 
 
-## Features
+### Features
 We use [D3Feat](https://github.com/XuyangBai/D3Feat?tab=readme-ov-file) to obtain keypoints and local features in advance.
 
 ## Compile and Run
