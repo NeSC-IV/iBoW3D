@@ -26,4 +26,4 @@ make
 ```
 
 ## Acknowledgement
-Thanks to the code of [D3Feat](https://github.com/XuyangBai/D3Feat?tab=readme-ov-file)
+Thanks to the code of [D3Feat](https://github.com/XuyangBai/D3Feat?tab=readme-ov-file).
