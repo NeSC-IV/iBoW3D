@@ -12,8 +12,6 @@
 
 #include <eigen3/Eigen/Dense>
 #include <eigen3/Eigen/Core>
-// #include <Eigen/Dense>
-// #include <Eigen/Core>
 
 #include <opencv2/highgui/highgui.hpp>
 #include <opencv2/opencv.hpp>
