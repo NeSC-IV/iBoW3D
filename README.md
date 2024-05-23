@@ -17,7 +17,7 @@ We use [D3Feat](https://github.com/XuyangBai/D3Feat?tab=readme-ov-file) to obtai
 Before compile the package, some related paths should be added in the **main.cpp** file.
 
 ```
-git clone 
+git clone https://github.com/NeSC-IV/iBoW3D.git
 mkdir build
 cd build
 cmake ..
