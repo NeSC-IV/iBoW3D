@@ -37,8 +37,6 @@ make
   booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)}, 
   title={iBoW3D: Place Recognition Based on Incremental and General Bag of Words in 3D Scans}, 
   year={2024},
-  volume={},
-  number={},
   pages={15981-15987},
   keywords={Measurement;Point cloud compression;Adaptation models;Solid modeling;Three-dimensional displays;Simultaneous localization and mapping;Databases},
   doi={10.1109/ICRA57147.2024.10610036}}
